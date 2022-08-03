@@ -39,8 +39,8 @@ header nav label{
 .container{
     width: 100vw;
     height: 100vh;
-    background-image: url(setup.jpg);
-    background-size: 100%;
+    background-image: url(fondo.jpg);
+    background-size: 93%;
     background-position: fixed; 
 }
 
@@ -63,7 +63,7 @@ section{
     margin-left: 0px;
     width: 50%;
     height: 410px;
-    background-color: rgb(28, 25, 41, 0.7);
+    background-color: rgb(28, 25, 41, 0.8);
     text-align: center;
     color: white;
     display: flex;
@@ -94,7 +94,7 @@ section{
 .periferics{
     width: 50%;
     height: 410px;
-    background-color:rgb(93, 30, 125, 0.7);
+    background-color:rgb(93, 30, 125, 0.8);
     text-align: center;
     color: white;
 }
